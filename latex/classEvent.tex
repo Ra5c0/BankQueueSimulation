@@ -1,0 +1,94 @@
+\hypertarget{classEvent}{}\doxysection{Event Class Reference}
+\label{classEvent}\index{Event@{Event}}
+
+
+Inheritance diagram for Event\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=268pt]{classEvent__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Event\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classEvent__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classEvent_a6be3a3e518c68907b63f319b2e6cb560}{Event}} (double, \mbox{\hyperlink{classBank}{Bank}} $\ast$)
+\begin{DoxyCompactList}\small\item\em Construct a new \mbox{\hyperlink{classEvent}{Event}}\+:\+: \mbox{\hyperlink{classEvent}{Event}} object. \end{DoxyCompactList}\item 
+virtual void \mbox{\hyperlink{classEvent_a94833981462bef16e87a28de979f05fe}{process}} ()
+\begin{DoxyCompactList}\small\item\em Process of the event Overridden by \mbox{\hyperlink{classClientArrival}{Client\+Arrival}} \& \mbox{\hyperlink{classCashierRelease}{Cashier\+Release}}. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{classEvent_ad0573eeaf84be56d4fa06d1e985513bc}{time}} () const
+\begin{DoxyCompactList}\small\item\em Returns the time of the event. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classEvent_a5e2230ea9d40535912ec2b5879c903e6}\label{classEvent_a5e2230ea9d40535912ec2b5879c903e6}} 
+\mbox{\hyperlink{classBank}{Bank}} $\ast$ {\bfseries \+\_\+bank}
+\item 
+\mbox{\Hypertarget{classEvent_a44bd028250341ee28517602e67d3d21e}\label{classEvent_a44bd028250341ee28517602e67d3d21e}} 
+double {\bfseries \+\_\+time}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classEvent_a6be3a3e518c68907b63f319b2e6cb560}\label{classEvent_a6be3a3e518c68907b63f319b2e6cb560}} 
+\index{Event@{Event}!Event@{Event}}
+\index{Event@{Event}!Event@{Event}}
+\doxysubsubsection{\texorpdfstring{Event()}{Event()}}
+{\footnotesize\ttfamily Event\+::\+Event (\begin{DoxyParamCaption}\item[{double}]{time,  }\item[{\mbox{\hyperlink{classBank}{Bank}} $\ast$}]{bank }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+Construct a new \mbox{\hyperlink{classEvent}{Event}}\+:\+: \mbox{\hyperlink{classEvent}{Event}} object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em time} & \\
+\hline
+{\em bank} & \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classEvent_a94833981462bef16e87a28de979f05fe}\label{classEvent_a94833981462bef16e87a28de979f05fe}} 
+\index{Event@{Event}!process@{process}}
+\index{process@{process}!Event@{Event}}
+\doxysubsubsection{\texorpdfstring{process()}{process()}}
+{\footnotesize\ttfamily void Event\+::process (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+
+
+Process of the event Overridden by \mbox{\hyperlink{classClientArrival}{Client\+Arrival}} \& \mbox{\hyperlink{classCashierRelease}{Cashier\+Release}}. 
+
+
+
+Reimplemented in \mbox{\hyperlink{classClientArrival_ad95a697a8e30d89e86373fb841aa757f}{Client\+Arrival}}, and \mbox{\hyperlink{classCashierRelease_a9f8dce1765f689f37b7974518edfdff1}{Cashier\+Release}}.
+
+\mbox{\Hypertarget{classEvent_ad0573eeaf84be56d4fa06d1e985513bc}\label{classEvent_ad0573eeaf84be56d4fa06d1e985513bc}} 
+\index{Event@{Event}!time@{time}}
+\index{time@{time}!Event@{Event}}
+\doxysubsubsection{\texorpdfstring{time()}{time()}}
+{\footnotesize\ttfamily double Event\+::time (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+Returns the time of the event. 
+
+\begin{DoxyReturn}{Returns}
+double 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Event_8hpp}{Event.\+hpp}}\item 
+\mbox{\hyperlink{Event_8cpp}{Event.\+cpp}}\end{DoxyCompactItemize}

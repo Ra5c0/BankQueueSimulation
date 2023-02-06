@@ -1,0 +1,9 @@
+<map id="CashierRelease" name="CashierRelease">
+<area shape="rect" id="node1" title=" " alt="" coords="121,361,244,388"/>
+<area shape="rect" id="node2" href="$classEvent.html" title=" " alt="" coords="5,221,64,248"/>
+<area shape="rect" id="node3" href="$classBank.html" title=" " alt="" coords="183,81,238,108"/>
+<area shape="rect" id="node5" href="$classCashier.html" title=" " alt="" coords="147,272,218,299"/>
+<area shape="rect" id="node6" href="$classClient.html" title=" " alt="" coords="273,171,333,197"/>
+<area shape="rect" id="node7" href="$classWaitingList.html" title=" " alt="" coords="357,171,451,197"/>
+<area shape="rect" id="node4" href="$classDES.html" title=" " alt="" coords="187,5,235,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WaitingList" name="WaitingList">
+<area shape="rect" id="node1" title=" " alt="" coords="9,5,104,32"/>
+<area shape="rect" id="node2" href="$classBank.html" title=" " alt="" coords="105,95,160,121"/>
+<area shape="rect" id="node4" href="$classCashier.html" title=" " alt="" coords="60,273,131,300"/>
+<area shape="rect" id="node5" href="$classClient.html" title=" " alt="" coords="103,184,163,211"/>
+<area shape="rect" id="node3" href="$classDES.html" title=" " alt="" coords="173,5,221,32"/>
+</map>

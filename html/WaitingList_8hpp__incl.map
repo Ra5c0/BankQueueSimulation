@@ -1,0 +1,19 @@
+<map id="WaitingList.hpp" name="WaitingList.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="248,5,371,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="124,304,204,331"/>
+<area shape="rect" id="node3" title=" " alt="" coords="658,80,721,107"/>
+<area shape="rect" id="node4" href="$Bank_8hpp.html" title=" " alt="" coords="268,80,351,107"/>
+<area shape="rect" id="node9" href="$Client_8hpp.html" title=" " alt="" coords="371,304,459,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="40,379,83,405"/>
+<area shape="rect" id="node6" title=" " alt="" coords="226,155,289,181"/>
+<area shape="rect" id="node7" href="$Cashier_8hpp.html" title=" " alt="" coords="313,155,412,181"/>
+<area shape="rect" id="node11" href="$ClientArrival_8hpp.html" title=" " alt="" coords="452,229,583,256"/>
+<area shape="rect" id="node17" href="$DES_8hpp.html" title=" " alt="" coords="23,229,99,256"/>
+<area shape="rect" id="node8" href="$CashierRelease_8hpp.html" title=" " alt="" coords="226,229,377,256"/>
+<area shape="rect" id="node10" href="$Event_8hpp.html" title=" " alt="" coords="255,304,342,331"/>
+<area shape="rect" id="node12" href="$Poisson_8h_source.html" title=" " alt="" coords="483,304,567,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="642,379,710,405"/>
+<area shape="rect" id="node14" title=" " alt="" coords="327,379,398,405"/>
+<area shape="rect" id="node15" title=" " alt="" coords="423,379,519,405"/>
+<area shape="rect" id="node16" title=" " alt="" coords="543,379,617,405"/>
+</map>
