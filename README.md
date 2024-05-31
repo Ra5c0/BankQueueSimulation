@@ -7,8 +7,5 @@ Simulation of a bank queue in C++
 # Run
 ```./simulation.out```
 
-# Clean all
+# Clean
 ```make clean```
-
-# Clean objects only
-```make clean_objets```
