@@ -1,8 +1,0 @@
-<map id="Event" name="Event">
-<area shape="rect" id="node1" title=" " alt="" coords="5,171,64,197"/>
-<area shape="rect" id="node2" href="$classBank.html" title=" " alt="" coords="169,81,223,108"/>
-<area shape="rect" id="node4" href="$classCashier.html" title=" " alt="" coords="175,260,246,287"/>
-<area shape="rect" id="node5" href="$classClient.html" title=" " alt="" coords="181,171,241,197"/>
-<area shape="rect" id="node6" href="$classWaitingList.html" title=" " alt="" coords="265,171,359,197"/>
-<area shape="rect" id="node3" href="$classDES.html" title=" " alt="" coords="172,5,220,32"/>
-</map>

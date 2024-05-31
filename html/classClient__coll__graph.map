@@ -1,7 +1,0 @@
-<map id="Client" name="Client">
-<area shape="rect" id="node1" title=" " alt="" coords="79,5,139,32"/>
-<area shape="rect" id="node4" href="$classCashier.html" title=" " alt="" coords="16,95,87,121"/>
-<area shape="rect" id="node2" href="$classBank.html" title=" " alt="" coords="108,184,163,211"/>
-<area shape="rect" id="node5" href="$classWaitingList.html" title=" " alt="" coords="88,273,183,300"/>
-<area shape="rect" id="node3" href="$classDES.html" title=" " alt="" coords="235,95,283,121"/>
-</map>
